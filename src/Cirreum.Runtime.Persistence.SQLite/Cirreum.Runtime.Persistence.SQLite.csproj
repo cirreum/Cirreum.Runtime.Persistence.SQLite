@@ -6,8 +6,8 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Cirreum.Persistence.SQLite" Version="1.0.1" />
-		<PackageReference Include="Cirreum.Runtime.ServiceProvider" Version="1.0.4" />
+		<PackageReference Include="Cirreum.Persistence.SQLite" Version="1.0.2" />
+		<PackageReference Include="Cirreum.Runtime.ServiceProvider" Version="1.0.5" />
 	</ItemGroup>
 
 </Project>
